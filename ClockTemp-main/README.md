@@ -14,7 +14,7 @@
 
 1.копируйте рипозиторий
  ```
- git clone https://github.com/dantas-arthur/ClockTemp.git
+ git clone https://github.com/Goiidaa/chasiki.git
  ```
 
 2. откройте
